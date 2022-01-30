@@ -1,15 +1,15 @@
-### Calculator
+<h1 align='center'>Calculator</h1>
 
 <hr>
 <br>
 
-<img src='public/Assets/CalculatorGif.gif'>
+<div align='center'><img src='public/Assets/CalculatorGif.gif'></div>
 
 <br>
 <hr>
 <br>
 
-<img src='public/Assets/Calculator.PNG'>
+<img align='center' src='public/Assets/Calculator.PNG'>
 
 ## 🚀 Technologies
 
