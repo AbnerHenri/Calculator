@@ -3,8 +3,7 @@
 
 <div align='center'><img width='300px src='public/Assets/CalculatorGif.gif'></div>
 
-<br>
-<br>
+  <hr>
 
 <div align='center'><img width='300px' src='public/Assets/Calculator.PNG'></div>
 
