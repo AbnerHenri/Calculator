@@ -1,6 +1,4 @@
 <h1 align='center'>Calculator</h1>
-
-<hr>
 <br>
 
 <div align='center'><img src='public/Assets/CalculatorGif.gif'></div>
@@ -9,7 +7,7 @@
 <hr>
 <br>
 
-<img align='center' src='public/Assets/Calculator.PNG'>
+<div align='center'><img src='public/Assets/Calculator.PNG'></div>
 
 ## 🚀 Technologies
 
