@@ -7,7 +7,7 @@
 <hr>
 <br>
 
-<div align='center'><img src='public/Assets/Calculator.PNG'></div>
+<div align='center'><img width='300px' src='public/Assets/Calculator.PNG'></div>
 
 ## 🚀 Technologies
 
